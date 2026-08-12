@@ -7,4 +7,4 @@
 * Avaliações individuais: Semana 9 e Semana 14;
 * Entendo o porquê projetar um software;
 * Definição de problema para o projeto de aplicativo;
-* Organização dos trabalhos em repositórios do Github;
+* Organização dos trabalhos em repositórios do Github; s
